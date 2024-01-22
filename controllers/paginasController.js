@@ -1,5 +1,5 @@
 import { Viaje } from '../model/Viajes.js';
-import { Testimonial } from "../model/testimoniales.js"; 
+import { Testimonial } from "../model/Testimoniales.js"; 
 
 
 const paginaInicio = async (req, res) => { 
